@@ -1,7 +1,7 @@
 package edu.escuelaing.arep.picosparkweb;
 
-import com.sun.deploy.net.HttpRequest;
-import com.sun.deploy.net.HttpResponse;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 
 import java.util.function.BiFunction;
 import java.util.function.Supplier;
