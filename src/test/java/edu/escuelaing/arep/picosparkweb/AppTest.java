@@ -1,4 +1,4 @@
-package edu.escuelaing.arep.PicoSparkWeb;
+package edu.escuelaing.arep.picosparkweb;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
